@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=tester
+comment1.params=
+comment1.target=void\ testVigenereBreaker()
+comment1.text=public\ void\ testerTryKeyLength(int\ klength,char\ most){\r\n\ \ \ \ \ \ \ \ VigenereBreaker\ vb\ \=\ new\ VigenereBreaker();\r\n\ \ \ \ \ \ \ \ FileResource\ fr\ \=\ new\ FileResource();\r\n\ \ \ \ \ \ \ \ //System.out.println(fr.asString());\r\n\ \ \ \ \ \ \ \ vb.tryKeyLength(fr.asString(),klength,most);\r\n}
+numComments=2

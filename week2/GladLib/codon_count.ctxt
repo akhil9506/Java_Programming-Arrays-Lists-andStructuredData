@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=codon_count
+comment1.params=
+comment1.target=codon_count()
+comment2.params=start\ dna
+comment2.target=void\ buildCodonMap(int,\ java.lang.String)
+comment3.params=start\ end
+comment3.target=void\ printCodons(int,\ int)
+comment4.params=
+comment4.target=void\ tester()
+numComments=5
